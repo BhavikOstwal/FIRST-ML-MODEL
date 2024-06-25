@@ -50,5 +50,5 @@ complete_pipeline = Pipeline([
     {'prdeictor', LinearRegression()}
 ])
 
-if __name__=="__main__":
-    LinearRegression()
+if __name__!="__main__":
+    print("\n" + "#"*8 + "  Script is written by BHAVIK OSTWAL  " + '#'*8 + '\n')
